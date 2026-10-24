@@ -1,0 +1,877 @@
+{
+ "events": [
+  {
+   "id": "2026-10-17-one-samurai-4",
+   "bouts": [
+    {
+     "a": "秋元皓貴",
+     "b": "ジョナサン・ハガティー",
+     "jp": true,
+     "note": "メインイベント・ONEバンタム級キックボクシング世界タイトルマッチ（ハガティーが王者）",
+     "title": true
+    },
+    {
+     "a": "野杁正明",
+     "b": "シアサラニ",
+     "jp": true,
+     "note": "ONE SAMURAI フェザー級キックボクシング・トーナメント準決勝"
+    },
+    {
+     "a": "マラット・グレゴリアン",
+     "b": "ルオ・チャオ",
+     "jp": false,
+     "note": "同トーナメント準決勝"
+    }
+   ],
+   "category": "notable",
+   "dateJst": "2026-10-17",
+   "extra": "結果：ハガティーが秋元に3R TKO勝ちで防衛、野杁はシアサラニに判定2-1で勝ち決勝へ（相手はグレゴリアン、日程は未発表。グレゴリアン vs ルオ・チャオは試合中止）。",
+   "kind": "ONE",
+   "order": 20261017.153,
+   "status": "confirmed",
+   "timeJst": "15:30",
+   "timeNote": "15:30〜ライブ配信（ONE公式。14:30開始とする報道もあり）",
+   "title": "ONE SAMURAI 4",
+   "venue": "有明アリーナ（東京）",
+   "watch": "U-NEXT（独占ライブ配信）"
+  },
+  {
+   "id": "2026-10-19-lemino-shooto-9",
+   "bouts": [
+    {
+     "a": "齋藤奨司",
+     "b": "野瀬翔平",
+     "note": "メイン・バンタム級サバイバートーナメント決勝"
+    },
+    {
+     "a": "山内渉",
+     "b": "シモンスズキ",
+     "note": "セミ・フライ級"
+    },
+    {
+     "a": "倉本一真",
+     "b": "パク・チウ",
+     "note": "バンタム級"
+    }
+   ],
+   "category": "domestic",
+   "dateJst": "2026-10-19",
+   "extra": "プロフェッショナル修斗公式戦の後楽園大会。トーナメントの優勝賞金は200万円。",
+   "kind": "SHOOTO",
+   "order": 20261019.18,
+   "promo": "shooto",
+   "status": "confirmed",
+   "timeJst": "18:00",
+   "timeNote": "開場 17:30／開始 18:00（予定）",
+   "title": "Lemino修斗.9",
+   "venue": "後楽園ホール（東京）",
+   "watch": "Lemino（無料ライブ配信）"
+  },
+  {
+   "id": "2026-10-25-shooto-force-24",
+   "bouts": [],
+   "category": "domestic",
+   "dateJst": "2026-10-25",
+   "extra": "プロ修斗公式戦の香川大会。対戦カードは公式では未発表。",
+   "kind": "SHOOTO",
+   "order": 20261025.15,
+   "promo": "shooto",
+   "status": "confirmed",
+   "timeJst": "15:00",
+   "timeNote": "開始 15:00",
+   "title": "FORCE 24",
+   "venue": "高松シンボルタワー 展示場（香川）",
+   "watch": null
+  },
+  {
+   "id": "2026-10-30-deep-fight-challenge-3",
+   "bouts": [
+    {
+     "a": "濱口奏琉",
+     "b": "おにぎり君",
+     "note": "メイン・58kg以下"
+    },
+    {
+     "a": "菊川イサム",
+     "b": "佐々木琢磨",
+     "note": "フェザー級"
+    },
+    {
+     "a": "井上セナ",
+     "b": "ルシア山内",
+     "note": "バンタム級"
+    }
+   ],
+   "category": "domestic",
+   "dateJst": "2026-10-30",
+   "extra": "若手育成イベントで、プロ4試合とアマチュア4試合。",
+   "kind": "DEEP",
+   "order": 20261030.193,
+   "promo": "deep",
+   "status": "confirmed",
+   "timeJst": "19:30",
+   "timeNote": "開場 19:00／開始 19:30",
+   "title": "DEEP FIGHT CHALLENGE 2026 3rd ROUND",
+   "venue": "恵比寿ガーデンルーム（東京）",
+   "watch": null
+  },
+  {
+   "id": "2026-10-31-bd-legend-fight",
+   "bouts": [],
+   "category": "domestic",
+   "dateJst": "2026-10-31",
+   "extra": "40歳以上限定のBreakingDown新シリーズ。トーナメント優勝者にベルトと賞金500万円。対戦カードと配信は未発表。",
+   "kind": "BD",
+   "order": 20261031.18,
+   "promo": "breakingdown",
+   "status": "confirmed",
+   "timeJst": "18:00",
+   "timeNote": "開場 17:00／開始 18:00（チケットぴあ表記）",
+   "title": "LEGEND FIGHT from BreakingDown",
+   "venue": "イメージスタジオ109 四谷スタジオ（東京）",
+   "watch": null
+  },
+  {
+   "id": "2026-11-07-ufc-vegas",
+   "bouts": [
+    {
+     "a": "中村京一郎",
+     "aEn": "Keiichiro Nakamura",
+     "b": "オリー・シュミッド",
+     "bEn": "Ollie Schmid",
+     "fighterId": "nakamura-keiichiro",
+     "jp": true,
+     "note": "フェザー級"
+    }
+   ],
+   "category": "abroad",
+   "dateJst": "2026-11-08",
+   "dateLocal": "2026-11-07",
+   "extra": "メインはボンフィム vs ブレイディ。中村の試合がプレリムかメインカードかは未発表。",
+   "kind": "UFC",
+   "order": 20261108.07,
+   "status": "confirmed",
+   "timeJst": "07:00",
+   "timeNote": "11/8(日) 7:00〜プレリム、10:00〜メインカード",
+   "title": "UFC Fight Night ラスベガス",
+   "venue": "Meta APEX（アメリカ・ラスベガス）",
+   "watch": "U-NEXT"
+  },
+  {
+   "id": "2026-11-08-pancrase-368",
+   "bouts": [
+    {
+     "a": "菊入正行",
+     "b": "コール・ヘニング",
+     "note": "ウェルター級（菊入の約5年ぶりのPANCRASE復帰戦）"
+    },
+    {
+     "a": "林源平",
+     "b": "シーザー・カワハラ",
+     "note": "ミドル級"
+    },
+    {
+     "a": "平田旭",
+     "b": "ガブリエル・レーベン",
+     "note": "ウェルター級"
+    }
+   ],
+   "category": "domestic",
+   "dateJst": "2026-11-08",
+   "extra": "菊入の相手は当初発表から変更された（10/14発表）。試合順は未発表。",
+   "kind": "PANCRASE",
+   "order": 20261108.133,
+   "promo": "pancrase",
+   "status": "confirmed",
+   "timeJst": "13:30",
+   "timeNote": "開場 13:00／開始 13:30（予定）",
+   "title": "PANCRASE 368",
+   "venue": "ニューピアホール（東京）",
+   "watch": "U-NEXT（国内独占配信）"
+  },
+  {
+   "id": "2026-11-08-rizin-55",
+   "bouts": [
+    {
+     "a": "神龍誠",
+     "b": "トニー・ララミー",
+     "jp": true,
+     "note": "フライ級 5分3R・メインイベント（神龍の初防衛戦）",
+     "title": true
+    },
+    {
+     "a": "井上直樹",
+     "b": "イリスベク・ティレノフ",
+     "jp": true,
+     "note": "61kg・バンタム級次期挑戦者決定戦"
+    }
+   ],
+   "category": "rizin",
+   "dateJst": "2026-11-08",
+   "extra": "正式名は『abc presents RIZIN.55』。対戦カードは全14試合（本戦12・オープニングファイト2）。スダリオ剛 vs エドポロキングは延期。スカパー！のPPVは10/22販売開始。",
+   "kind": "RIZIN",
+   "order": 20261108.14,
+   "status": "confirmed",
+   "timeJst": "14:00",
+   "timeNote": "開場 12:30／開始 14:00（予定）",
+   "title": "RIZIN.55",
+   "venue": "LaLa arena TOKYO-BAY（千葉・船橋）",
+   "watch": "PPV：ABEMA、RIZIN LIVE、RIZIN 100 CLUB、スカパー！"
+  },
+  {
+   "id": "2026-11-08-lemino-shooto-10",
+   "bouts": [
+    {
+     "a": "西條英成",
+     "b": "レイ・クーパー",
+     "note": "ウェルター級"
+    },
+    {
+     "a": "藤田大和",
+     "b": "ジュニエル・フランシスコ",
+     "note": "フライ級"
+    },
+    {
+     "a": "砂辺光久",
+     "b": "大竹陽",
+     "note": "フライ級"
+    }
+   ],
+   "category": "domestic",
+   "dateJst": "2026-11-08",
+   "extra": "プロフェッショナル修斗公式戦の沖縄大会。全11試合。",
+   "kind": "SHOOTO",
+   "order": 20261108.17,
+   "promo": "shooto",
+   "status": "confirmed",
+   "timeJst": "17:00",
+   "timeNote": "開場 16:00／開始 17:00（予定）",
+   "title": "Lemino修斗.10",
+   "venue": "シャボン玉石けん くくる糸満（沖縄）",
+   "watch": "Lemino（配信予定）"
+  },
+  {
+   "id": "2026-11-21-ufc-qatar",
+   "bouts": [
+    {
+     "a": "イリー・プロハースカ",
+     "aEn": "Jiří Procházka",
+     "alum": true,
+     "b": "ナバホ・スターリング",
+     "bEn": "Navajo Stirling",
+     "fighterId": "prochazka",
+     "note": "ライトヘビー級・メインイベント"
+    },
+    {
+     "a": "堀口恭司",
+     "aEn": "Kyoji Horiguchi",
+     "b": "アスー・アルマバエフ",
+     "bEn": "Asu Almabayev",
+     "fighterId": "horiguchi",
+     "jp": true,
+     "note": "フライ級"
+    }
+   ],
+   "category": "abroad",
+   "dateJst": "2026-11-22",
+   "dateLocal": "2026-11-21",
+   "extra": "現地の開催日は11月21日(土)。堀口の試合がプレリムかメインカードかは未発表。",
+   "kind": "UFC",
+   "order": 20261122,
+   "status": "confirmed",
+   "timeJst": "00:00",
+   "timeNote": "11/22(日) 0:00〜プレリム、3:00〜メインカード",
+   "title": "UFC Fight Night カタール",
+   "venue": "ABHAアリーナ（カタール・ドーハ）",
+   "watch": "U-NEXT"
+  },
+  {
+   "id": "2026-11-22-deep-134",
+   "bouts": [
+    {
+     "a": "青井人",
+     "b": "三井俊希",
+     "note": "DEEPフェザー級タイトルマッチ（青井の防衛戦）",
+     "title": true
+    },
+    {
+     "a": "江藤公洋",
+     "b": "角野晃平",
+     "note": "ウェルター級"
+    },
+    {
+     "a": "白川ダーク陸斗",
+     "b": "瀧澤謙太",
+     "note": "バンタム級"
+    }
+   ],
+   "category": "domestic",
+   "dateJst": "2026-11-22",
+   "extra": "指定席は完売し、立見券のみ販売中（9/27時点）。",
+   "kind": "DEEP",
+   "order": 20261122.16,
+   "promo": "deep",
+   "status": "confirmed",
+   "timeJst": "16:00",
+   "timeNote": "開場 15:30／開始 16:00",
+   "title": "DEEP 134 IMPACT",
+   "venue": "ニューピアホール（東京）",
+   "watch": null
+  },
+  {
+   "id": "2026-11-23-deep-tokyo-impact-5",
+   "bouts": [
+    {
+     "a": "芦田崇宏",
+     "b": "海飛",
+     "note": "フェザー級"
+    },
+    {
+     "a": "神田コウヤ",
+     "b": "山本颯志",
+     "note": "ライト級"
+    },
+    {
+     "a": "関鉄矢",
+     "b": "狩野優",
+     "note": "フェザー級"
+    }
+   ],
+   "category": "domestic",
+   "dateJst": "2026-11-23",
+   "extra": "同じ日の夜、同じ会場でDEEP JEWELS 55も開かれる。",
+   "kind": "DEEP",
+   "order": 20261123.113,
+   "promo": "deep",
+   "status": "confirmed",
+   "timeJst": "11:30",
+   "timeNote": "開場 11:00／開始 11:30",
+   "title": "DEEP TOKYO IMPACT 2026 5th ROUND",
+   "venue": "ニューピアホール（東京）",
+   "watch": null
+  },
+  {
+   "id": "2026-11-23-deep-jewels-55",
+   "bouts": [
+    {
+     "a": "東よう子",
+     "b": "樹季",
+     "note": "DEEP JEWELSフェザー級タイトルマッチ（東の引退試合）",
+     "title": true
+    },
+    {
+     "a": "須田萌里",
+     "b": "キム・ソユル",
+     "note": "49kg以下"
+    },
+    {
+     "a": "海咲イルカ",
+     "b": "月井隼南",
+     "note": "49kg以下"
+    }
+   ],
+   "category": "domestic",
+   "dateJst": "2026-11-23",
+   "extra": "女子のDEEP JEWELS。",
+   "kind": "DEEP",
+   "order": 20261123.17,
+   "promo": "deep",
+   "status": "confirmed",
+   "timeJst": "17:00",
+   "timeNote": "開場 16:30／開始 17:00",
+   "title": "DEEP JEWELS 55",
+   "venue": "ニューピアホール（東京）",
+   "watch": null
+  },
+  {
+   "id": "2026-11-29-shooto-korakuen",
+   "bouts": [],
+   "category": "domestic",
+   "dateJst": "2026-11-29",
+   "extra": "プロフェッショナル修斗公式戦（サステイン主催）。大会名・対戦カード・配信は未発表。",
+   "kind": "SHOOTO",
+   "order": 20261129,
+   "promo": "shooto",
+   "status": "confirmed",
+   "timeJst": null,
+   "timeNote": "開始時刻は未発表",
+   "title": "修斗 後楽園大会",
+   "venue": "後楽園ホール（東京）",
+   "watch": null
+  },
+  {
+   "id": "2026-12-06-shooto-yamaguchi",
+   "bouts": [],
+   "category": "domestic",
+   "dateJst": "2026-12-06",
+   "extra": "プロフェッショナル修斗公式戦。大会名・対戦カードは未発表。",
+   "kind": "SHOOTO",
+   "order": 20261206,
+   "promo": "shooto",
+   "status": "confirmed",
+   "timeJst": null,
+   "timeNote": "開始時刻は未発表",
+   "title": "修斗 山口大会",
+   "venue": "KDDI維新ホール（山口）",
+   "watch": null
+  },
+  {
+   "id": "2026-12-13-breakingdown-22",
+   "bouts": [],
+   "category": "domestic",
+   "dateJst": "2026-12-13",
+   "extra": "BreakingDown初の神戸開催。対戦カード・配信（PPV）は未発表。",
+   "kind": "BD",
+   "order": 20261213,
+   "promo": "breakingdown",
+   "status": "confirmed",
+   "timeJst": null,
+   "timeNote": "開始時刻は未発表",
+   "title": "BreakingDown22",
+   "venue": "GLION ARENA KOBE（兵庫・神戸）",
+   "watch": null
+  },
+  {
+   "id": "2026-12-20-shooto-osaka",
+   "bouts": [],
+   "category": "domestic",
+   "dateJst": "2026-12-20",
+   "extra": "プロフェッショナル修斗公式戦（サステイン主催）。大会名・対戦カード・配信は未発表。",
+   "kind": "SHOOTO",
+   "order": 20261220.1,
+   "promo": "shooto",
+   "status": "confirmed",
+   "timeJst": null,
+   "timeNote": "開始時刻は未発表",
+   "title": "修斗 大阪大会",
+   "venue": "GORILLA HALL OSAKA（大阪）",
+   "watch": null
+  },
+  {
+   "id": "2026-12-20-pancrase-369",
+   "bouts": [
+    {
+     "a": "栁川唯人",
+     "b": "オタベク・ラジャボフ",
+     "note": "フェザー級王座統一戦（栁川が正規王者、ラジャボフが暫定王者）",
+     "title": true
+    }
+   ],
+   "category": "domestic",
+   "dateJst": "2026-12-20",
+   "extra": "PANCRASEの2026年最終戦。",
+   "kind": "PANCRASE",
+   "order": 20261220.133,
+   "promo": "pancrase",
+   "status": "confirmed",
+   "timeJst": "13:30",
+   "timeNote": "開場 13:00／開始 13:30（予定）",
+   "title": "PANCRASE 369",
+   "venue": "立川ステージガーデン（東京）",
+   "watch": "U-NEXT（国内独占配信）"
+  },
+  {
+   "id": "2026-12-31-rizin-nye",
+   "bouts": [
+    {
+     "a": "秋元強真",
+     "b": "ラジャブアリ・シェイドゥラエフ",
+     "jp": true,
+     "note": "大晦日のカードとして9月に決定"
+    }
+   ],
+   "category": "rizin",
+   "dateJst": "2026-12-31",
+   "extra": "大会名は未発表（公式表記は「大晦日 名古屋大会（仮）」）。例年のさいたまスーパーアリーナから名古屋のドームに会場を移す。",
+   "kind": "RIZIN",
+   "order": 20261231,
+   "status": "confirmed",
+   "timeJst": null,
+   "timeNote": "開始時刻は未発表",
+   "title": "RIZIN 大晦日大会",
+   "venue": "バンテリンドーム ナゴヤ（愛知）",
+   "watch": null
+  },
+  {
+   "id": "2027-rtu-s5-finals",
+   "bouts": [
+    {
+     "a": "スズキ・タカヤ",
+     "aEn": "Takaya Suzuki",
+     "b": "ジニウシユエ",
+     "fighterId": "suzuki-takaya",
+     "jp": true,
+     "note": "フライ級決勝。勝てばUFCと契約"
+    },
+    {
+     "a": "タジマ・リョウ",
+     "aEn": "Ryo Tajima",
+     "b": "ラビンドラ・ダント",
+     "fighterId": "tajima-ryo",
+     "jp": true,
+     "note": "バンタム級決勝。勝てばUFCと契約"
+    }
+   ],
+   "category": "abroad",
+   "dateJst": null,
+   "dateLabel": "2027年初頭",
+   "kind": "RTU",
+   "order": 20270115,
+   "status": "tba",
+   "timeJst": null,
+   "timeNote": "日程・会場は未発表（2027年初頭の予定）",
+   "title": "ROAD TO UFC シーズン5 決勝",
+   "venue": null,
+   "watch": "U-NEXT"
+  },
+  {
+   "id": "2027-01-22-lemino-shooto-11",
+   "bouts": [],
+   "category": "domestic",
+   "dateJst": "2027-01-22",
+   "extra": "プロフェッショナル修斗公式戦の後楽園大会。対戦カードは未発表。",
+   "kind": "SHOOTO",
+   "order": 20270122,
+   "promo": "shooto",
+   "status": "confirmed",
+   "timeJst": null,
+   "timeNote": "開始時刻は未発表",
+   "title": "Lemino修斗.11",
+   "venue": "後楽園ホール（東京）",
+   "watch": "Lemino（配信予定）"
+  }
+ ],
+ "fighters": [
+  {
+   "id": "taira",
+   "division": "フライ級",
+   "en": "Tatsuro Taira",
+   "group": "ufc",
+   "name": "平良達郎",
+   "note": "2026年5月にUFCフライ級王座へ挑戦し、王者ジョシュア・ヴァンに5R TKO負け。",
+   "order": 1,
+   "promo": "UFC"
+  },
+  {
+   "id": "horiguchi",
+   "division": "フライ級",
+   "en": "Kyoji Horiguchi",
+   "group": "ufc",
+   "name": "堀口恭司",
+   "note": "6月にマネル・ケイプに3R TKO負け。再起戦は11月のカタール大会に決まった。",
+   "order": 2,
+   "promo": "UFC"
+  },
+  {
+   "id": "asakura",
+   "division": "バンタム級",
+   "en": "Kai Asakura",
+   "group": "ufc",
+   "name": "朝倉海",
+   "note": "バンタム級でUFC2連勝中。8月の上海大会でアオリ・チロンに2R TKO勝ち。",
+   "order": 3,
+   "promo": "UFC"
+  },
+  {
+   "id": "tsuruya",
+   "division": "フライ級",
+   "en": "Rei Tsuruya",
+   "group": "ufc",
+   "name": "鶴屋怜",
+   "note": "ROAD TO UFC シーズン2のフライ級優勝者。",
+   "order": 4,
+   "promo": "UFC"
+  },
+  {
+   "id": "nakamura-rinya",
+   "division": "バンタム級",
+   "en": "Rinya Nakamura",
+   "group": "ufc",
+   "name": "中村倫也",
+   "note": "9月、約1年ぶりの復帰戦でブレイディ・ヒースタンドに2R一本負け。",
+   "order": 5,
+   "promo": "UFC"
+  },
+  {
+   "id": "nakamura-keiichiro",
+   "division": "フェザー級",
+   "en": "Keiichiro Nakamura",
+   "group": "ufc",
+   "name": "中村京一郎",
+   "note": "ROAD TO UFC シーズン4のフェザー級優勝者。UFC唯一の日本人フェザー級。",
+   "order": 6,
+   "promo": "UFC"
+  },
+  {
+   "id": "mizuki",
+   "division": "女子ストロー級",
+   "en": "Mizuki Inoue",
+   "group": "ufc",
+   "name": "ミズキ",
+   "note": "UFC女子ストロー級15位。2025年10月にジャクリーン・アモリムに判定勝ち。",
+   "order": 7,
+   "promo": "UFC"
+  },
+  {
+   "id": "suzuki-takaya",
+   "division": "フライ級",
+   "en": "Takaya Suzuki",
+   "group": "rtu",
+   "name": "スズキ・タカヤ",
+   "nameV": "スズキ　タカヤ",
+   "note": "21歳。シーズン5の準決勝を3R TKOで勝ち上がった。",
+   "order": 8,
+   "promo": "ROAD TO UFC"
+  },
+  {
+   "id": "tajima-ryo",
+   "division": "バンタム級",
+   "en": "Ryo Tajima",
+   "group": "rtu",
+   "name": "タジマ・リョウ",
+   "nameV": "タジマ　リョウ",
+   "note": "シーズン5の準決勝を判定3-0で勝ち上がった。",
+   "order": 9,
+   "promo": "ROAD TO UFC"
+  },
+  {
+   "id": "nasukawa",
+   "division": "バンタム級",
+   "en": "Tenshin Nasukawa",
+   "group": "notable",
+   "name": "那須川天心",
+   "note": "9月27日、WBC王者・井上拓真との再戦に判定負け。",
+   "order": 10,
+   "promo": "ボクシング"
+  },
+  {
+   "id": "prochazka",
+   "division": "ライトヘビー級",
+   "en": "Jiří Procházka",
+   "group": "alum",
+   "name": "イリー・プロハースカ",
+   "note": "RIZINの初代ライトヘビー級王者で、UFCでも同級王者になった。4月のUFC 327の王座戦でカルロス・ウルバーグに1R KO負け。",
+   "order": 11,
+   "origin": "rizin",
+   "promo": "UFC"
+  },
+  {
+   "id": "kape",
+   "division": "フライ級",
+   "en": "Manel Kape",
+   "group": "alum",
+   "name": "マネル・ケイプ",
+   "note": "2019年の大晦日に朝倉海を破りRIZINバンタム級王者に。UFCでは4連続KO勝ちで、6月に堀口恭司も下した。王者ジョシュア・ヴァンへの挑戦が有力（2027年1〜3月の見込み・未発表）。",
+   "order": 12,
+   "origin": "rizin",
+   "promo": "UFC"
+  }
+ ],
+ "results": [
+  {
+   "id": "2026-09-27-nasukawa",
+   "date": "2026-09-27",
+   "event": "WBC世界バンタム級タイトルマッチ",
+   "fighter": "那須川天心",
+   "method": "判定",
+   "opponent": "井上拓真",
+   "order": 20260927,
+   "outcome": "L"
+  },
+  {
+   "id": "2026-09-26-nakamura-rinya",
+   "date": "2026-09-26",
+   "dateNote": "日付は現地",
+   "event": "UFC Fight Night（ラスベガス）",
+   "fighter": "中村倫也",
+   "method": "一本 2R 4:07",
+   "opponent": "ブレイディ・ヒースタンド",
+   "order": 20260926,
+   "outcome": "L"
+  },
+  {
+   "id": "2026-08-29-asakura",
+   "date": "2026-08-29",
+   "event": "UFC Fight Night（上海）",
+   "fighter": "朝倉海",
+   "method": "TKO 2R",
+   "opponent": "アオリ・チロン",
+   "order": 20260829,
+   "outcome": "W"
+  },
+  {
+   "id": "2026-08-28-suzuki-takaya",
+   "date": "2026-08-28",
+   "event": "ROAD TO UFC シーズン5 準決勝",
+   "fighter": "スズキ・タカヤ",
+   "method": "TKO 3R 0:15",
+   "opponent": "ジョセフ・ラルシネス",
+   "order": 20260828.2,
+   "outcome": "W"
+  },
+  {
+   "id": "2026-08-28-tajima-ryo",
+   "date": "2026-08-28",
+   "event": "ROAD TO UFC シーズン5 準決勝",
+   "fighter": "タジマ・リョウ",
+   "method": "判定 3-0",
+   "opponent": "チュンレン・コレン",
+   "order": 20260828.1,
+   "outcome": "W"
+  }
+ ],
+ "videos": [],
+ "meta": {
+  "sources": [
+   {
+    "label": "RIZIN NYE in Nagoya（RIZIN.TV）",
+    "url": "https://watch.rizin.tv/products/rizin-nye-in-nagoya"
+   },
+   {
+    "label": "2026 in Rizin Fighting Federation（Wikipedia）",
+    "url": "https://en.wikipedia.org/wiki/2026_in_Rizin_Fighting_Federation"
+   },
+   {
+    "label": "RIZIN.55 全対戦カード一覧",
+    "url": "https://tinpanblog.com/?p=60123"
+   },
+   {
+    "label": "RIZIN.55 追加対戦カード発表（RIZIN公式）",
+    "url": "https://jp.rizinff.com/_ct/17866427"
+   },
+   {
+    "label": "ONE SAMURAI 4 全試合結果（イーファイト）",
+    "url": "https://efight.jp/result-20261017_1749546"
+   },
+   {
+    "label": "UFCカタール大会の全カード発表（Cageside Press）",
+    "url": "https://cagesidepress.com/2026/09/29/full-ufc-qatar-card-revealed-for-november-21-event/"
+   },
+   {
+    "label": "UFC Fight Night ドーハ開催の発表（Qatar Tribune）",
+    "url": "https://www.qatar-tribune.com/article/254555/sports/visit-qatar-announces-return-of-ufc-fight-night-to-doha"
+   },
+   {
+    "label": "UFC 大会一覧（UFC.com）",
+    "url": "https://www.ufc.com/events"
+   },
+   {
+    "label": "ROAD TO UFC シーズン5 準決勝の結果（UFC.com）",
+    "url": "https://www.ufc.com/news/road-to-ufc-season-5-semifinals-results"
+   },
+   {
+    "label": "タジマ・リョウ vs ダントの決勝決定（Himal Press）",
+    "url": "https://en.himalpress.com/?p=87038"
+   },
+   {
+    "label": "中村倫也 vs ヒースタンド（Cageside Press）",
+    "url": "https://cagesidepress.com/2026/09/26/brady-hiestand-wins-tuf-vs-road-to-ufc-battle-subs-rinya-nakamura/"
+   },
+   {
+    "label": "朝倉海がUFC2連勝（デイリースポーツ）",
+    "url": "https://www.daily.co.jp/ring/2026/08/29/0020761134.shtml"
+   },
+   {
+    "label": "井上拓真 vs 那須川天心の再戦（現代ビジネス）",
+    "url": "https://gendai.media/articles/-/171705"
+   },
+   {
+    "label": "平良達郎のUFC王座戦（琉球新報）",
+    "url": "https://ryukyushimpo.jp/tag/ufc"
+   },
+   {
+    "label": "堀口恭司 vs マネル・ケイプ（Cageside Press）",
+    "url": "https://cagesidepress.com/2026/06/22/whats-next-ufc-vegas-119-losers/"
+   },
+   {
+    "label": "ミズキ 選手ページ（UFC.com）",
+    "url": "https://www.ufc.com/athlete/mizuki-inoue"
+   },
+   {
+    "label": "中村京一郎 選手ページ（UFC.com）",
+    "url": "https://www.ufc.com/athlete/keiichiro-nakamura"
+   },
+   {
+    "label": "UFCとU-NEXTの放映権延長（UFC.com）",
+    "url": "https://www.ufc.com/news/ufc-and-u-next-extend-media-rights-partnership-japan"
+   },
+   {
+    "label": "UFC 327 ウルバーグ vs プロハースカ（Cageside Press）",
+    "url": "https://cagesidepress.com/2026/04/11/ufc-327-carlos-ulberg-suffers-nasty-leg-injury-still-finishes-prochazka-to-claim-gold"
+   },
+   {
+    "label": "マネル・ケイプ vs ジョシュア・ヴァンの見通し（Heavy）",
+    "url": "https://heavy.com/sports/ufc/manel-kape-paint-masterpiece-joshua-van/"
+   },
+   {
+    "label": "ONE SAMURAI 4 の視聴方法（ONE公式）",
+    "url": "https://www.onefc.com/news/how-to-watch-one-samurai-4-live-on-saturday-october-17/"
+   },
+   {
+    "label": "RIZIN.55 PPV販売（RIZIN公式）",
+    "url": "https://jp.rizinff.com/_ct/17869109"
+   },
+   {
+    "label": "UFC Fight Night カタール（UFC.com）",
+    "url": "https://www.ufc.com/event/ufc-fight-night-november-21-2026"
+   },
+   {
+    "label": "UFC Fight Night ボンフィム vs ブレイディ（UFC.com）",
+    "url": "https://www.ufc.com/event/ufc-fight-night-november-07-2026"
+   },
+   {
+    "label": "RIZIN 大晦日 名古屋大会（RIZIN公式）",
+    "url": "https://jp.rizinff.com/_ct/17813466"
+   },
+   {
+    "label": "BreakingDown オーディション・大会情報（公式）",
+    "url": "https://breakingdown.jp/audition/"
+   },
+   {
+    "label": "LEGEND FIGHT from BreakingDown（チケットぴあ）",
+    "url": "https://t.pia.jp/pia/ticketInformation.do?eventCd=2639742&rlsCd=001"
+   },
+   {
+    "label": "BreakingDown22 神戸開催（ゴング格闘技）",
+    "url": "https://gonkaku.jp/articles/25038"
+   },
+   {
+    "label": "プロフェッショナル修斗 大会スケジュール（修斗公式）",
+    "url": "https://shooto-mma.com/schedule/"
+   },
+   {
+    "label": "Lemino修斗 特設ページ（Lemino）",
+    "url": "https://lemino.docomo.ne.jp/ft/0000182/"
+   },
+   {
+    "label": "DEEP 134 IMPACT（DEEP公式）",
+    "url": "https://www.deep2001.com/deep-134-impact/"
+   },
+   {
+    "label": "DEEP TOKYO IMPACT 2026 5th ROUND（DEEP公式）",
+    "url": "https://www.deep2001.com/deep-tokyo-impact-2026-5th-round/"
+   },
+   {
+    "label": "DEEP JEWELS 55（DEEP公式）",
+    "url": "https://www.deep2001.com/deep-jewels-55/"
+   },
+   {
+    "label": "DEEP FIGHT CHALLENGE 2026 3rd ROUND（DEEP公式）",
+    "url": "https://www.deep2001.com/deep-fight-challenge-2026-3rd-round/"
+   },
+   {
+    "label": "PANCRASE 2026年 大会スケジュール（PANCRASE公式）",
+    "url": "https://www.pancrase.co.jp/rls/2026/schedule.html"
+   },
+   {
+    "label": "PANCRASE 368（PANCRASE公式）",
+    "url": "https://www.pancrase.co.jp/tour/2026/pancrase368/index.html"
+   },
+   {
+    "label": "PANCRASE 369（PANCRASE公式）",
+    "url": "https://www.pancrase.co.jp/tour/2026/pancrase369/index.html"
+   }
+  ],
+  "updated": "2026-10-18"
+ }
+}
