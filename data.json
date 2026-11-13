@@ -104,7 +104,7 @@
    ],
    "category": "domestic",
    "dateJst": "2026-10-30",
-   "extra": "若手育成イベントで、プロ4試合とアマチュア4試合。",
+   "extra": "結果：濱口奏琉がおにぎり君に1R 1:21 KO勝ち、井上セナがルシア山内に1R 2:16 TKO勝ち。",
    "kind": "DEEP",
    "order": 20261030.193,
    "promo": "deep",
@@ -120,7 +120,7 @@
    "bouts": [],
    "category": "domestic",
    "dateJst": "2026-10-31",
-   "extra": "40歳以上限定のBreakingDown新シリーズ。トーナメント優勝者にベルトと賞金500万円。対戦カードと配信は未発表。",
+   "extra": "40歳以上限定のBreakingDown新シリーズ。準決勝でヒロ三河と啓之輔がKO勝ちし、決勝（優勝賞金500万円）は12/13のBreakingDown22で行う。",
    "kind": "BD",
    "order": 20261031.18,
    "promo": "breakingdown",
@@ -129,7 +129,7 @@
    "timeNote": "開場 17:00／開始 18:00（チケットぴあ表記）",
    "title": "LEGEND FIGHT from BreakingDown",
    "venue": "イメージスタジオ109 四谷スタジオ（東京）",
-   "watch": null
+   "watch": "BreakingDown LIVE（PPV）"
   },
   {
    "id": "2026-11-07-ufc-vegas",
@@ -141,13 +141,13 @@
      "bEn": "Ollie Schmid",
      "fighterId": "nakamura-keiichiro",
      "jp": true,
-     "note": "フェザー級"
+     "note": "フェザー級・プレリム"
     }
    ],
    "category": "abroad",
    "dateJst": "2026-11-08",
    "dateLocal": "2026-11-07",
-   "extra": "メインはボンフィム vs ブレイディ。中村の試合がプレリムかメインカードかは未発表。",
+   "extra": "結果：中村京一郎はオリー・シュミッドに判定0-3で敗れた。メインはジョニー・ウォーカーがコルテス・アコスタに3R TKO勝ち（当初のボンフィム vs ブレイディはブレイディの欠場で中止）。",
    "kind": "UFC",
    "order": 20261108.07,
    "status": "confirmed",
@@ -162,7 +162,7 @@
    "bouts": [
     {
      "a": "菊入正行",
-     "b": "コール・ヘニング",
+     "b": "平信一",
      "note": "ウェルター級（菊入の約5年ぶりのPANCRASE復帰戦）"
     },
     {
@@ -171,14 +171,14 @@
      "note": "ミドル級"
     },
     {
-     "a": "平田旭",
-     "b": "ガブリエル・レーベン",
-     "note": "ウェルター級"
+     "a": "松井涼",
+     "b": "ルイス・ヘルクラーノ",
+     "note": "バンタム級"
     }
    ],
    "category": "domestic",
    "dateJst": "2026-11-08",
-   "extra": "菊入の相手は当初発表から変更された（10/14発表）。試合順は未発表。",
+   "extra": "結果：菊入正行が平信一に2R 2:21 TKO勝ち、松井涼がヘルクラーノに一本勝ち、眞藤源太がダヴィ・チュンに一本勝ち。",
    "kind": "PANCRASE",
    "order": 20261108.133,
    "promo": "pancrase",
@@ -208,7 +208,7 @@
    ],
    "category": "rizin",
    "dateJst": "2026-11-08",
-   "extra": "正式名は『abc presents RIZIN.55』。対戦カードは全14試合（本戦12・オープニングファイト2）。スダリオ剛 vs エドポロキングは延期。スカパー！のPPVは10/22販売開始。",
+   "extra": "結果：トニー・ララミーが神龍誠に判定2-1で勝ち新フライ級王者に。ティレノフが井上直樹に判定3-0で勝ち、大晦日に王者サバテロへの挑戦が発表された。大会中に青木真也がMMA引退を表明。",
    "kind": "RIZIN",
    "order": 20261108.14,
    "status": "confirmed",
@@ -223,8 +223,8 @@
    "bouts": [
     {
      "a": "西條英成",
-     "b": "レイ・クーパー",
-     "note": "ウェルター級"
+     "b": "レイ・クーパー3世",
+     "note": "メイン・ウェルター級"
     },
     {
      "a": "藤田大和",
@@ -239,7 +239,7 @@
    ],
    "category": "domestic",
    "dateJst": "2026-11-08",
-   "extra": "プロフェッショナル修斗公式戦の沖縄大会。全11試合。",
+   "extra": "結果：レイ・クーパー3世が西條英成に1R 2:34 KO勝ち、大竹陽が砂辺光久に判定3-0、藤田大和はフランシスコに一本勝ち。",
    "kind": "SHOOTO",
    "order": 20261108.17,
    "promo": "shooto",
@@ -249,6 +249,41 @@
    "title": "Lemino修斗.10",
    "venue": "シャボン玉石けん くくる糸満（沖縄）",
    "watch": "Lemino（配信予定）"
+  },
+  {
+   "id": "2026-11-18-one-samurai-5",
+   "bouts": [
+    {
+     "a": "山北渓人",
+     "b": "ジョシュア・パシオ",
+     "jp": true,
+     "note": "ONEストロー級MMA世界タイトルマッチ（パシオが王者）",
+     "title": true
+    },
+    {
+     "a": "和田竜光",
+     "b": "ジャレッド・ブルックス",
+     "jp": true,
+     "note": "MMA"
+    },
+    {
+     "a": "那須川龍心",
+     "b": "エルメディ・エル・ジャマリ",
+     "jp": true,
+     "note": "キックボクシング"
+    }
+   ],
+   "category": "notable",
+   "dateJst": "2026-11-18",
+   "extra": "全10試合。ほかに玖村将史 vs エリス・バルボーサ、竹内龍吾 vs ハシモト・ブランドン、礼司 vs ルイ・ボテーリョ、GUMP vs 乾秀人、木下尚祐 vs シヴァエフ、加藤有吾 vs 石井寿来、麻火佑太郎 vs ペッタノン。",
+   "kind": "ONE",
+   "order": 20261118.173,
+   "status": "confirmed",
+   "timeJst": "17:30",
+   "timeNote": "開場 16:00／開始 17:30",
+   "title": "ONE SAMURAI 5",
+   "venue": "EBARA WAVE アリーナおおた（東京）",
+   "watch": "U-NEXT（独占ライブ配信）"
   },
   {
    "id": "2026-11-21-ufc-qatar",
@@ -269,13 +304,13 @@
      "bEn": "Asu Almabayev",
      "fighterId": "horiguchi",
      "jp": true,
-     "note": "フライ級"
+     "note": "フライ級・メインカード"
     }
    ],
    "category": "abroad",
    "dateJst": "2026-11-22",
    "dateLocal": "2026-11-21",
-   "extra": "現地の開催日は11月21日(土)。堀口の試合がプレリムかメインカードかは未発表。",
+   "extra": "現地の開催日は11月21日(土)。堀口の試合はメインカード。",
    "kind": "UFC",
    "order": 20261122,
    "status": "confirmed",
@@ -316,7 +351,7 @@
    "timeNote": "開場 15:30／開始 16:00",
    "title": "DEEP 134 IMPACT",
    "venue": "ニューピアホール（東京）",
-   "watch": null
+   "watch": "U-NEXT"
   },
   {
    "id": "2026-11-23-deep-tokyo-impact-5",
@@ -339,7 +374,7 @@
    ],
    "category": "domestic",
    "dateJst": "2026-11-23",
-   "extra": "同じ日の夜、同じ会場でDEEP JEWELS 55も開かれる。",
+   "extra": "同じ日の夜、同じ会場でDEEP JEWELS 55も開かれる。森永ユキト vs 石坂空志は森永の負傷で中止。",
    "kind": "DEEP",
    "order": 20261123.113,
    "promo": "deep",
@@ -385,26 +420,66 @@
   },
   {
    "id": "2026-11-29-shooto-korakuen",
-   "bouts": [],
+   "bouts": [
+    {
+     "a": "デソウザ・マルセル",
+     "b": "マコア・クーパー",
+     "note": "世界ウェルター級王座決定戦",
+     "title": true
+    },
+    {
+     "a": "内藤頌貴",
+     "b": "当真佳直",
+     "note": "世界ストロー級次期挑戦者決定戦"
+    },
+    {
+     "a": "武田勇輝",
+     "b": "人見礼王",
+     "note": "インフィニティリーグ・バンタム級"
+    }
+   ],
    "category": "domestic",
    "dateJst": "2026-11-29",
-   "extra": "プロフェッショナル修斗公式戦（サステイン主催）。大会名・対戦カード・配信は未発表。",
+   "extra": "プロフェッショナル修斗公式戦（サステイン主催）。11/5に全12試合が決定。配信は調整中。",
    "kind": "SHOOTO",
-   "order": 20261129,
+   "order": 20261129.1745,
    "promo": "shooto",
+   "status": "confirmed",
+   "timeJst": "17:45",
+   "timeNote": "開場 17:30／開始 17:45",
+   "title": "PROFESSIONAL SHOOTO 2026 Vol.7",
+   "venue": "後楽園ホール（東京）",
+   "watch": null
+  },
+  {
+   "id": "2026-12-02-one-samurai-6",
+   "bouts": [
+    {
+     "a": "澤田千優",
+     "b": "アナスタシア・ニコラカコス",
+     "jp": true,
+     "note": "ONEアトム級MMA世界タイトルマッチ",
+     "title": true
+    }
+   ],
+   "category": "notable",
+   "dateJst": "2026-12-02",
+   "extra": "発表済みのカードは1試合（ザンボアンガの王座返上による王座決定戦）。野杁正明 vs マラット・グレゴリアンのトーナメント決勝は、野杁の負傷で日程未定。",
+   "kind": "ONE",
+   "order": 20261202,
    "status": "confirmed",
    "timeJst": null,
    "timeNote": "開始時刻は未発表",
-   "title": "修斗 後楽園大会",
-   "venue": "後楽園ホール（東京）",
-   "watch": null
+   "title": "ONE SAMURAI 6",
+   "venue": "横浜BUNTAI（神奈川・横浜）",
+   "watch": "U-NEXT"
   },
   {
    "id": "2026-12-06-shooto-yamaguchi",
    "bouts": [],
    "category": "domestic",
    "dateJst": "2026-12-06",
-   "extra": "プロフェッショナル修斗公式戦。大会名・対戦カードは未発表。",
+   "extra": "プロフェッショナル修斗公式戦（SECOND OUT主催）。ゴング格闘技の大会一覧では『TORAO41』と表記。対戦カード・配信は未発表。",
    "kind": "SHOOTO",
    "order": 20261206,
    "promo": "shooto",
@@ -417,10 +492,16 @@
   },
   {
    "id": "2026-12-13-breakingdown-22",
-   "bouts": [],
+   "bouts": [
+    {
+     "a": "啓之輔",
+     "b": "ヒロ三河",
+     "note": "LEGEND FIGHT 決勝（優勝賞金500万円）"
+    }
+   ],
    "category": "domestic",
    "dateJst": "2026-12-13",
-   "extra": "BreakingDown初の神戸開催。対戦カード・配信（PPV）は未発表。",
+   "extra": "BreakingDown初の神戸開催。YURAの卒業マッチ、韓国BLACK COMBATとの対抗戦を予定とする報道もあり。開始時刻・配信は未発表。",
    "kind": "BD",
    "order": 20261213,
    "promo": "breakingdown",
@@ -429,6 +510,73 @@
    "timeNote": "開始時刻は未発表",
    "title": "BreakingDown22",
    "venue": "GLION ARENA KOBE（兵庫・神戸）",
+   "watch": null
+  },
+  {
+   "id": "2026-12-13-deep-tokyo-impact-6",
+   "bouts": [
+    {
+     "a": "中務太陽",
+     "b": "石坂空志",
+     "note": "バンタム級"
+    },
+    {
+     "a": "中村大介",
+     "b": "透暉鷹",
+     "note": "フェザー級"
+    },
+    {
+     "a": "杉山空",
+     "b": "豪瑠",
+     "note": "ストロー級"
+    }
+   ],
+   "category": "domestic",
+   "dateJst": "2026-12-13",
+   "extra": "同じ日の夜、同じ会場でDEEP 135 IMPACTも開かれる。",
+   "kind": "DEEP",
+   "order": 20261213.12,
+   "promo": "deep",
+   "status": "confirmed",
+   "timeJst": "12:00",
+   "timeNote": "開場 11:30／開始 12:00",
+   "title": "DEEP TOKYO IMPACT 2026 6th ROUND",
+   "venue": "ニューピアホール（東京）",
+   "watch": null
+  },
+  {
+   "id": "2026-12-13-deep-135",
+   "bouts": [
+    {
+     "a": "知名昴海",
+     "b": "新井丈",
+     "note": "DEEPストロー級タイトルマッチ（知名が王者）",
+     "title": true
+    },
+    {
+     "a": "大原樹里",
+     "b": "ケンシロウ",
+     "note": "DEEPライト級タイトルマッチ（大原が王者）",
+     "title": true
+    },
+    {
+     "a": "万智",
+     "b": "ののか",
+     "note": "DEEP JEWELSストロー級タイトルマッチ（万智が王者）",
+     "title": true
+    }
+   ],
+   "category": "domestic",
+   "dateJst": "2026-12-13",
+   "extra": "同じ日の昼、同じ会場でDEEP TOKYO IMPACT 6th ROUNDも開かれる。",
+   "kind": "DEEP",
+   "order": 20261213.173,
+   "promo": "deep",
+   "status": "confirmed",
+   "timeJst": "17:30",
+   "timeNote": "開場 17:00／開始 17:30",
+   "title": "DEEP 135 IMPACT",
+   "venue": "ニューピアホール（東京）",
    "watch": null
   },
   {
@@ -455,11 +603,23 @@
      "b": "オタベク・ラジャボフ",
      "note": "フェザー級王座統一戦（栁川が正規王者、ラジャボフが暫定王者）",
      "title": true
+    },
+    {
+     "a": "神谷大智",
+     "b": "ラファエル・バルボーザ",
+     "note": "ライト級タイトルマッチ（バルボーザが王者）",
+     "title": true
+    },
+    {
+     "a": "時田隆成",
+     "b": "猿飛流",
+     "note": "フライ級タイトルマッチ（時田が王者）",
+     "title": true
     }
    ],
    "category": "domestic",
    "dateJst": "2026-12-20",
-   "extra": "PANCRASEの2026年最終戦。",
+   "extra": "PANCRASEの2026年最終戦。タイトルマッチ3試合。",
    "kind": "PANCRASE",
    "order": 20261220.133,
    "promo": "pancrase",
@@ -477,20 +637,121 @@
      "a": "秋元強真",
      "b": "ラジャブアリ・シェイドゥラエフ",
      "jp": true,
-     "note": "大晦日のカードとして9月に決定"
+     "note": "フェザー級タイトルマッチ（シェイドゥラエフが王者）",
+     "title": true
+    },
+    {
+     "a": "朝倉未来",
+     "b": "ルイス・グスタボ",
+     "jp": true,
+     "note": "71kg"
+    },
+    {
+     "a": "鈴木千裕",
+     "b": "YA-MAN",
+     "bJp": true,
+     "jp": true,
+     "note": "66kg"
+    },
+    {
+     "a": "大島沙緒里",
+     "b": "ナターシャ・クジュティナ",
+     "jp": true,
+     "note": "女子スーパーアトム級タイトルマッチ",
+     "title": true
+    },
+    {
+     "a": "スダリオ剛",
+     "b": "エドポロキング",
+     "bJp": true,
+     "jp": true,
+     "note": "ヘビー級GP JAPAN 決勝"
+    },
+    {
+     "a": "青木真也",
+     "b": "桜庭大世",
+     "bJp": true,
+     "jp": true,
+     "note": "71kg・青木の引退試合"
+    },
+    {
+     "a": "金子蒼空",
+     "b": "松尾クリスチャンアキラ",
+     "bJp": true,
+     "jp": true,
+     "note": "RIZIN甲子園 2026 決勝（61kg・5分2R）"
     }
    ],
    "category": "rizin",
    "dateJst": "2026-12-31",
-   "extra": "大会名は未発表（公式表記は「大晦日 名古屋大会（仮）」）。例年のさいたまスーパーアリーナから名古屋のドームに会場を移す。",
+   "extra": "ほかに村元友太郎 vs 山本アーセン、火の鳥 vs 篠塚辰樹、ヒロヤ vs 平本丈、冨澤大智 vs ドンマイ川端。伊澤星花も出場（相手未定）。ティレノフ vs サバテロのバンタム級王座戦はRIZIN.55のリング上で発表、ララミー vs 伊藤裕樹も報道あり（公式カード未掲載）。配信は未発表。一般発売は11/22。",
    "kind": "RIZIN",
-   "order": 20261231,
+   "order": 20261231.13,
+   "status": "confirmed",
+   "timeJst": "13:00",
+   "timeNote": "開場 11:00／開始 13:00（予定）",
+   "title": "超RIZIN.6 師走の尾張名古屋下剋上祭り",
+   "venue": "バンテリンドーム ナゴヤ（愛知）",
+   "watch": null
+  },
+  {
+   "id": "2027-01-22-lemino-shooto-11",
+   "bouts": [],
+   "category": "domestic",
+   "dateJst": "2027-01-22",
+   "extra": "プロフェッショナル修斗公式戦の後楽園大会。対戦カードは未発表。",
+   "kind": "SHOOTO",
+   "order": 20270122,
+   "promo": "shooto",
    "status": "confirmed",
    "timeJst": null,
    "timeNote": "開始時刻は未発表",
-   "title": "RIZIN 大晦日大会",
-   "venue": "バンテリンドーム ナゴヤ（愛知）",
-   "watch": null
+   "title": "Lemino修斗.11",
+   "venue": "後楽園ホール（東京）",
+   "watch": "Lemino（配信予定）"
+  },
+  {
+   "id": "2027-01-24-pancrase-370",
+   "bouts": [],
+   "category": "domestic",
+   "dateJst": "2027-01-24",
+   "extra": "PANCRASEの2027年初戦で、1月開催は11年ぶり。対戦カードは未発表。",
+   "kind": "PANCRASE",
+   "order": 20270124,
+   "promo": "pancrase",
+   "status": "confirmed",
+   "timeJst": null,
+   "timeNote": "開始時刻は未発表",
+   "title": "PANCRASE 370",
+   "venue": "ニューピアホール（東京）",
+   "watch": "U-NEXT（配信予定）"
+  },
+  {
+   "id": "2027-01-30-ufc-336",
+   "bouts": [
+    {
+     "a": "マネル・ケイプ",
+     "aEn": "Manel Kape",
+     "alum": true,
+     "b": "ジョシュア・ヴァン",
+     "bEn": "Joshua Van",
+     "fighterId": "kape",
+     "note": "フライ級タイトルマッチ・メインイベント（ヴァンが王者）",
+     "title": true
+    }
+   ],
+   "category": "abroad",
+   "dateJst": "2027-01-31",
+   "dateLocal": "2027-01-30",
+   "extra": "現地の開催日は1月30日(土)。セミは暫定ウェルター級王座戦 プラテス vs モラレス。",
+   "kind": "UFC",
+   "order": 20270131.07,
+   "status": "confirmed",
+   "timeJst": "07:00",
+   "timeNote": "1/31(日) 7:00〜アーリープレリム、9:00〜プレリム、11:00〜メインカード",
+   "title": "UFC 336",
+   "venue": "スコシアバンク・アリーナ（カナダ・トロント）",
+   "watch": "U-NEXT"
   },
   {
    "id": "2027-rtu-s5-finals",
@@ -513,32 +774,16 @@
     }
    ],
    "category": "abroad",
-   "dateJst": null,
-   "dateLabel": "2027年初頭",
+   "dateJst": "2027-02-07",
+   "extra": "UFC Fight Night シドニー（メインはサルキルド vs サン・ドニ）のプレリムで決勝4試合を行う。現地の日付は2月7日(日)。",
    "kind": "RTU",
-   "order": 20270115,
-   "status": "tba",
-   "timeJst": null,
-   "timeNote": "日程・会場は未発表（2027年初頭の予定）",
-   "title": "ROAD TO UFC シーズン5 決勝",
-   "venue": null,
-   "watch": "U-NEXT"
-  },
-  {
-   "id": "2027-01-22-lemino-shooto-11",
-   "bouts": [],
-   "category": "domestic",
-   "dateJst": "2027-01-22",
-   "extra": "プロフェッショナル修斗公式戦の後楽園大会。対戦カードは未発表。",
-   "kind": "SHOOTO",
-   "order": 20270122,
-   "promo": "shooto",
+   "order": 20270207,
    "status": "confirmed",
    "timeJst": null,
-   "timeNote": "開始時刻は未発表",
-   "title": "Lemino修斗.11",
-   "venue": "後楽園ホール（東京）",
-   "watch": "Lemino（配信予定）"
+   "timeNote": "開始時刻は未発表（UFC Fight Night シドニーのプレリムで実施）",
+   "title": "ROAD TO UFC シーズン5 決勝",
+   "venue": "Afterpay Arena（オーストラリア・シドニー）",
+   "watch": "U-NEXT"
   }
  ],
  "fighters": [
@@ -578,7 +823,7 @@
    "en": "Rei Tsuruya",
    "group": "ufc",
    "name": "鶴屋怜",
-   "note": "ROAD TO UFC シーズン2のフライ級優勝者。",
+   "note": "ROAD TO UFC シーズン2のフライ級優勝者。8月の上海大会でケビン・ボルハスに1R一本勝ち。",
    "order": 4,
    "promo": "UFC"
   },
@@ -598,7 +843,7 @@
    "en": "Keiichiro Nakamura",
    "group": "ufc",
    "name": "中村京一郎",
-   "note": "ROAD TO UFC シーズン4のフェザー級優勝者。UFC唯一の日本人フェザー級。",
+   "note": "ROAD TO UFC シーズン4のフェザー級優勝者。11月7日（現地）のラスベガス大会でオリー・シュミッドに判定0-3で敗れた。次戦は未定。",
    "order": 6,
    "promo": "UFC"
   },
@@ -619,7 +864,7 @@
    "group": "rtu",
    "name": "スズキ・タカヤ",
    "nameV": "スズキ　タカヤ",
-   "note": "21歳。シーズン5の準決勝を3R TKOで勝ち上がった。",
+   "note": "21歳。シーズン5の準決勝を3R TKOで勝ち上がった。決勝は2027年2月7日のシドニー大会でジニウシユエと対戦。",
    "order": 8,
    "promo": "ROAD TO UFC"
   },
@@ -630,7 +875,7 @@
    "group": "rtu",
    "name": "タジマ・リョウ",
    "nameV": "タジマ　リョウ",
-   "note": "シーズン5の準決勝を判定3-0で勝ち上がった。",
+   "note": "シーズン5の準決勝を判定3-0で勝ち上がった。決勝は2027年2月7日のシドニー大会でラビンドラ・ダントと対戦。",
    "order": 9,
    "promo": "ROAD TO UFC"
   },
@@ -640,7 +885,7 @@
    "en": "Tenshin Nasukawa",
    "group": "notable",
    "name": "那須川天心",
-   "note": "9月27日、WBC王者・井上拓真との再戦に判定負け。",
+   "note": "9月27日、WBC王者・井上拓真との再戦に判定負け。10月19日の会見で「ボクシングをやめて、今後は拳闘をやる」と現役続行を宣言。次戦は未定。",
    "order": 10,
    "promo": "ボクシング"
   },
@@ -661,13 +906,24 @@
    "en": "Manel Kape",
    "group": "alum",
    "name": "マネル・ケイプ",
-   "note": "2019年の大晦日に朝倉海を破りRIZINバンタム級王者に。UFCでは4連続KO勝ちで、6月に堀口恭司も下した。王者ジョシュア・ヴァンへの挑戦が有力（2027年1〜3月の見込み・未発表）。",
+   "note": "2019年の大晦日に朝倉海を破りRIZINバンタム級王者に。UFCでは4連続KO勝ちで、6月に堀口恭司も下した。2027年1月30日のUFC 336で王者ジョシュア・ヴァンに挑戦する。",
    "order": 12,
    "origin": "rizin",
    "promo": "UFC"
   }
  ],
  "results": [
+  {
+   "id": "2026-11-07-nakamura-keiichiro",
+   "date": "2026-11-07",
+   "dateNote": "日付は現地",
+   "event": "UFC Fight Night（ラスベガス）",
+   "fighter": "中村京一郎",
+   "method": "判定 0-3",
+   "opponent": "オリー・シュミッド",
+   "order": 20261107,
+   "outcome": "L"
+  },
   {
    "id": "2026-09-27-nasukawa",
    "date": "2026-09-27",
@@ -688,6 +944,16 @@
    "opponent": "ブレイディ・ヒースタンド",
    "order": 20260926,
    "outcome": "L"
+  },
+  {
+   "id": "2026-08-29-tsuruya",
+   "date": "2026-08-29",
+   "event": "UFC Fight Night（上海）",
+   "fighter": "鶴屋怜",
+   "method": "一本 1R 4:14",
+   "opponent": "ケビン・ボルハス",
+   "order": 20260829.1,
+   "outcome": "W"
   },
   {
    "id": "2026-08-29-asakura",
@@ -728,28 +994,8 @@
     "url": "https://watch.rizin.tv/products/rizin-nye-in-nagoya"
    },
    {
-    "label": "2026 in Rizin Fighting Federation（Wikipedia）",
-    "url": "https://en.wikipedia.org/wiki/2026_in_Rizin_Fighting_Federation"
-   },
-   {
-    "label": "RIZIN.55 全対戦カード一覧",
-    "url": "https://tinpanblog.com/?p=60123"
-   },
-   {
-    "label": "RIZIN.55 追加対戦カード発表（RIZIN公式）",
-    "url": "https://jp.rizinff.com/_ct/17866427"
-   },
-   {
-    "label": "ONE SAMURAI 4 全試合結果（イーファイト）",
-    "url": "https://efight.jp/result-20261017_1749546"
-   },
-   {
     "label": "UFCカタール大会の全カード発表（Cageside Press）",
     "url": "https://cagesidepress.com/2026/09/29/full-ufc-qatar-card-revealed-for-november-21-event/"
-   },
-   {
-    "label": "UFC Fight Night ドーハ開催の発表（Qatar Tribune）",
-    "url": "https://www.qatar-tribune.com/article/254555/sports/visit-qatar-announces-return-of-ufc-fight-night-to-doha"
    },
    {
     "label": "UFC 大会一覧（UFC.com）",
@@ -760,32 +1006,8 @@
     "url": "https://www.ufc.com/news/road-to-ufc-season-5-semifinals-results"
    },
    {
-    "label": "タジマ・リョウ vs ダントの決勝決定（Himal Press）",
-    "url": "https://en.himalpress.com/?p=87038"
-   },
-   {
     "label": "中村倫也 vs ヒースタンド（Cageside Press）",
     "url": "https://cagesidepress.com/2026/09/26/brady-hiestand-wins-tuf-vs-road-to-ufc-battle-subs-rinya-nakamura/"
-   },
-   {
-    "label": "朝倉海がUFC2連勝（デイリースポーツ）",
-    "url": "https://www.daily.co.jp/ring/2026/08/29/0020761134.shtml"
-   },
-   {
-    "label": "井上拓真 vs 那須川天心の再戦（現代ビジネス）",
-    "url": "https://gendai.media/articles/-/171705"
-   },
-   {
-    "label": "平良達郎のUFC王座戦（琉球新報）",
-    "url": "https://ryukyushimpo.jp/tag/ufc"
-   },
-   {
-    "label": "堀口恭司 vs マネル・ケイプ（Cageside Press）",
-    "url": "https://cagesidepress.com/2026/06/22/whats-next-ufc-vegas-119-losers/"
-   },
-   {
-    "label": "ミズキ 選手ページ（UFC.com）",
-    "url": "https://www.ufc.com/athlete/mizuki-inoue"
    },
    {
     "label": "中村京一郎 選手ページ（UFC.com）",
@@ -796,40 +1018,8 @@
     "url": "https://www.ufc.com/news/ufc-and-u-next-extend-media-rights-partnership-japan"
    },
    {
-    "label": "UFC 327 ウルバーグ vs プロハースカ（Cageside Press）",
-    "url": "https://cagesidepress.com/2026/04/11/ufc-327-carlos-ulberg-suffers-nasty-leg-injury-still-finishes-prochazka-to-claim-gold"
-   },
-   {
-    "label": "マネル・ケイプ vs ジョシュア・ヴァンの見通し（Heavy）",
-    "url": "https://heavy.com/sports/ufc/manel-kape-paint-masterpiece-joshua-van/"
-   },
-   {
-    "label": "ONE SAMURAI 4 の視聴方法（ONE公式）",
-    "url": "https://www.onefc.com/news/how-to-watch-one-samurai-4-live-on-saturday-october-17/"
-   },
-   {
-    "label": "RIZIN.55 PPV販売（RIZIN公式）",
-    "url": "https://jp.rizinff.com/_ct/17869109"
-   },
-   {
     "label": "UFC Fight Night カタール（UFC.com）",
     "url": "https://www.ufc.com/event/ufc-fight-night-november-21-2026"
-   },
-   {
-    "label": "UFC Fight Night ボンフィム vs ブレイディ（UFC.com）",
-    "url": "https://www.ufc.com/event/ufc-fight-night-november-07-2026"
-   },
-   {
-    "label": "RIZIN 大晦日 名古屋大会（RIZIN公式）",
-    "url": "https://jp.rizinff.com/_ct/17813466"
-   },
-   {
-    "label": "BreakingDown オーディション・大会情報（公式）",
-    "url": "https://breakingdown.jp/audition/"
-   },
-   {
-    "label": "LEGEND FIGHT from BreakingDown（チケットぴあ）",
-    "url": "https://t.pia.jp/pia/ticketInformation.do?eventCd=2639742&rlsCd=001"
    },
    {
     "label": "BreakingDown22 神戸開催（ゴング格闘技）",
@@ -856,22 +1046,110 @@
     "url": "https://www.deep2001.com/deep-jewels-55/"
    },
    {
-    "label": "DEEP FIGHT CHALLENGE 2026 3rd ROUND（DEEP公式）",
-    "url": "https://www.deep2001.com/deep-fight-challenge-2026-3rd-round/"
-   },
-   {
     "label": "PANCRASE 2026年 大会スケジュール（PANCRASE公式）",
     "url": "https://www.pancrase.co.jp/rls/2026/schedule.html"
    },
    {
-    "label": "PANCRASE 368（PANCRASE公式）",
-    "url": "https://www.pancrase.co.jp/tour/2026/pancrase368/index.html"
-   },
-   {
     "label": "PANCRASE 369（PANCRASE公式）",
     "url": "https://www.pancrase.co.jp/tour/2026/pancrase369/index.html"
+   },
+   {
+    "label": "RIZIN甲子園 決勝は大晦日（RIZIN公式）",
+    "url": "https://jp.rizinff.com/_ct/17870919"
+   },
+   {
+    "label": "ONE SAMURAI 6（ONE公式）",
+    "url": "https://www.onefc.com/events/one-samurai-6/"
+   },
+   {
+    "label": "UFC 336 ヴァン vs ケイプ（Cageside Press）",
+    "url": "https://cagesidepress.com/2026/10/24/prates-vs-morales-for-interim-gold-van-vs-kape-announced-for-ufc-336/"
+   },
+   {
+    "label": "DEEP 135 IMPACT（DEEP公式）",
+    "url": "https://www.deep2001.com/deep-135/"
+   },
+   {
+    "label": "DEEP TOKYO IMPACT 2026 6th ROUND（DEEP公式）",
+    "url": "https://www.deep2001.com/deep-tokyo-impact-2026-6th-round/"
+   },
+   {
+    "label": "那須川天心「拳闘をやる」会見（MEDIADOGS）",
+    "url": "https://mediadogs.jp/2026/10/20/nasukawa-tenshin-kentou-press/"
+   },
+   {
+    "label": "UFCシドニー大会・ROAD TO UFC決勝（UFC.com）",
+    "url": "https://www.ufc.com/news/ufc-fight-night-sydney-main-event-set-quillan-salkilld-face-benoit-saint-denis"
+   },
+   {
+    "label": "PROFESSIONAL SHOOTO 2026 Vol.7（修斗公式）",
+    "url": "https://www.shooto-mma.com/schedule/?id=257"
+   },
+   {
+    "label": "PANCRASE 370 は1月24日（Combat Press）",
+    "url": "https://combatpress.com/2026/10/pancrase-announces-2027-opener-first-january-event-in-11-years/"
+   },
+   {
+    "label": "超RIZIN.6 大会名・第1弾カード発表（RIZIN公式）",
+    "url": "https://jp.rizinff.com/_ct/17874147"
+   },
+   {
+    "label": "超RIZIN.6 大会概要（RIZIN公式）",
+    "url": "https://jp.rizinff.com/_ct/17870447"
+   },
+   {
+    "label": "超RIZIN.6 対戦カード（RIZIN公式）",
+    "url": "https://jp.rizinff.com/_ct/17874052"
+   },
+   {
+    "label": "RIZIN.55 ララミーが新王者（TOKYO HEADLINE）",
+    "url": "https://www.tokyoheadline.com/878489/"
+   },
+   {
+    "label": "ティレノフが井上に勝利、大晦日にサバテロ戦（MMAPLANET）",
+    "url": "https://mmaplanet.jp/243479"
+   },
+   {
+    "label": "RIZIN.55 全結果（Cageside Press）",
+    "url": "https://cagesidepress.com/2026/11/08/rizin-55-full-results/"
+   },
+   {
+    "label": "UFC Vegas 124 の結果（Sherdog）",
+    "url": "https://www.sherdog.com/news/news/UFC-Vegas-124-CortesAcosta-vs-Walker-playbyplay-results-round-scoring-203525"
+   },
+   {
+    "label": "UFC 336（UFC.com）",
+    "url": "https://www.ufc.com/event/ufc-336"
+   },
+   {
+    "label": "ONE SAMURAI 5（ONE公式）",
+    "url": "https://www.onefc.com/jp/events/one-samurai-5/"
+   },
+   {
+    "label": "ONE SAMURAI 6 澤田の王座決定戦（ゴング格闘技）",
+    "url": "https://gonkaku.jp/articles/25109"
+   },
+   {
+    "label": "Lemino修斗.10 クーパーが西條にKO勝ち（MMAPLANET）",
+    "url": "https://mmaplanet.jp/243489"
+   },
+   {
+    "label": "PANCRASE 368 菊入がTKO勝ち（MMAPLANET）",
+    "url": "https://mmaplanet.jp/243454"
+   },
+   {
+    "label": "LEGEND FIGHT 決勝はBD22（デイリー）",
+    "url": "https://www.daily.co.jp/ring/2026/10/31/0020988289.shtml"
+   },
+   {
+    "label": "修斗 Vol.7 全カード決定（修斗公式）",
+    "url": "https://shooto-mma.com/topics/?id=7327"
+   },
+   {
+    "label": "大会一覧（ゴング格闘技）",
+    "url": "https://gonkaku.jp/events"
    }
   ],
-  "updated": "2026-10-18"
+  "updated": "2026-11-09"
  }
 }
