@@ -268,14 +268,15 @@
     },
     {
      "a": "那須川龍心",
-     "b": "エルメディ・エル・ジャマリ",
+     "b": "永井雷智",
+     "bJp": true,
      "jp": true,
-     "note": "キックボクシング"
+     "note": "ストロー級キックボクシング"
     }
    ],
    "category": "notable",
    "dateJst": "2026-11-18",
-   "extra": "全10試合。ほかに玖村将史 vs エリス・バルボーサ、竹内龍吾 vs ハシモト・ブランドン、礼司 vs ルイ・ボテーリョ、GUMP vs 乾秀人、木下尚祐 vs シヴァエフ、加藤有吾 vs 石井寿来、麻火佑太郎 vs ペッタノン。",
+   "extra": "全10試合。那須川龍心の相手はエルメディ・エル・ジャマリから永井雷智に変わった（ONE公式の大会ページ）。ほかに玖村将史 vs エリス・バルボーサ、竹内龍吾 vs ハシモト・ブランドン、礼司 vs ルイ・ボテーリョ、GUMP vs 乾秀人、木下尚祐 vs シヴァエフ、加藤有吾 vs 石井寿来、麻火佑太郎 vs ペッタノン。",
    "kind": "ONE",
    "order": 20261118.173,
    "status": "confirmed",
@@ -342,16 +343,16 @@
    ],
    "category": "domestic",
    "dateJst": "2026-11-22",
-   "extra": "指定席は完売し、立見券のみ販売中（9/27時点）。",
+   "extra": "ほかに泉武志 vs 山田聖真など。福島司の負傷欠場で一部カード変更あり（DEEP公式）。",
    "kind": "DEEP",
-   "order": 20261122.16,
+   "order": 20261122.1545,
    "promo": "deep",
    "status": "confirmed",
-   "timeJst": "16:00",
-   "timeNote": "開場 15:30／開始 16:00",
+   "timeJst": "15:45",
+   "timeNote": "開場 15:30／15:45〜オープニングファイト、16:00〜本戦",
    "title": "DEEP 134 IMPACT",
    "venue": "ニューピアホール（東京）",
-   "watch": "U-NEXT"
+   "watch": "ABEMA（無料ライブ配信）"
   },
   {
    "id": "2026-11-23-deep-tokyo-impact-5",
@@ -376,14 +377,14 @@
    "dateJst": "2026-11-23",
    "extra": "同じ日の夜、同じ会場でDEEP JEWELS 55も開かれる。森永ユキト vs 石坂空志は森永の負傷で中止。",
    "kind": "DEEP",
-   "order": 20261123.113,
+   "order": 20261123.1115,
    "promo": "deep",
    "status": "confirmed",
-   "timeJst": "11:30",
-   "timeNote": "開場 11:00／開始 11:30",
+   "timeJst": "11:15",
+   "timeNote": "開場 11:00／11:15〜オープニングファイト、11:30〜本戦",
    "title": "DEEP TOKYO IMPACT 2026 5th ROUND",
    "venue": "ニューピアホール（東京）",
-   "watch": null
+   "watch": "ABEMA（無料ライブ配信）"
   },
   {
    "id": "2026-11-23-deep-jewels-55",
@@ -409,14 +410,14 @@
    "dateJst": "2026-11-23",
    "extra": "女子のDEEP JEWELS。",
    "kind": "DEEP",
-   "order": 20261123.17,
+   "order": 20261123.164,
    "promo": "deep",
    "status": "confirmed",
-   "timeJst": "17:00",
-   "timeNote": "開場 16:30／開始 17:00",
+   "timeJst": "16:40",
+   "timeNote": "開場 16:30／16:40〜オープニングファイト、17:00〜本戦",
    "title": "DEEP JEWELS 55",
    "venue": "ニューピアホール（東京）",
-   "watch": null
+   "watch": "ABEMA（無料ライブ配信）"
   },
   {
    "id": "2026-11-29-shooto-korakuen",
@@ -460,11 +461,23 @@
      "jp": true,
      "note": "ONEアトム級MMA世界タイトルマッチ",
      "title": true
+    },
+    {
+     "a": "和島大海",
+     "b": "モハメド・シアサラニ",
+     "jp": true,
+     "note": "フェザー級キックボクシング"
+    },
+    {
+     "a": "箕輪ひろば",
+     "b": "ファビオ・ヘンリケ",
+     "jp": true,
+     "note": "ストロー級MMA"
     }
    ],
    "category": "notable",
    "dateJst": "2026-12-02",
-   "extra": "発表済みのカードは1試合（ザンボアンガの王座返上による王座決定戦）。野杁正明 vs マラット・グレゴリアンのトーナメント決勝は、野杁の負傷で日程未定。",
+   "extra": "発表済みは7試合。ほかにMISAKI vs ドゥアンダーオノイ、奥脇竜哉 vs トンプーン・PK・センチャイ、折居大河 vs 平山諒、白鳥大珠 vs 手塚翔太。野杁正明 vs マラット・グレゴリアンのトーナメント決勝は、野杁の負傷で日程未定。",
    "kind": "ONE",
    "order": 20261202,
    "status": "confirmed",
@@ -554,7 +567,7 @@
      "title": true
     },
     {
-     "a": "大原樹里",
+     "a": "大原樹理",
      "b": "ケンシロウ",
      "note": "DEEPライト級タイトルマッチ（大原が王者）",
      "title": true
@@ -1059,7 +1072,7 @@
    },
    {
     "label": "ONE SAMURAI 6（ONE公式）",
-    "url": "https://www.onefc.com/events/one-samurai-6/"
+    "url": "https://www.onefc.com/jp/events/one-samurai-6/"
    },
    {
     "label": "UFC 336 ヴァン vs ケイプ（Cageside Press）",
@@ -1102,16 +1115,8 @@
     "url": "https://jp.rizinff.com/_ct/17874052"
    },
    {
-    "label": "RIZIN.55 ララミーが新王者（TOKYO HEADLINE）",
-    "url": "https://www.tokyoheadline.com/878489/"
-   },
-   {
     "label": "ティレノフが井上に勝利、大晦日にサバテロ戦（MMAPLANET）",
     "url": "https://mmaplanet.jp/243479"
-   },
-   {
-    "label": "RIZIN.55 全結果（Cageside Press）",
-    "url": "https://cagesidepress.com/2026/11/08/rizin-55-full-results/"
    },
    {
     "label": "UFC Vegas 124 の結果（Sherdog）",
@@ -1130,14 +1135,6 @@
     "url": "https://gonkaku.jp/articles/25109"
    },
    {
-    "label": "Lemino修斗.10 クーパーが西條にKO勝ち（MMAPLANET）",
-    "url": "https://mmaplanet.jp/243489"
-   },
-   {
-    "label": "PANCRASE 368 菊入がTKO勝ち（MMAPLANET）",
-    "url": "https://mmaplanet.jp/243454"
-   },
-   {
     "label": "LEGEND FIGHT 決勝はBD22（デイリー）",
     "url": "https://www.daily.co.jp/ring/2026/10/31/0020988289.shtml"
    },
@@ -1150,6 +1147,6 @@
     "url": "https://gonkaku.jp/events"
    }
   ],
-  "updated": "2026-11-09"
+  "updated": "2026-11-16"
  }
 }
