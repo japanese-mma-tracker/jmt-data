@@ -251,6 +251,31 @@
    "watch": "Lemino（配信予定）"
   },
   {
+   "id": "2026-11-14-pfl-dubai",
+   "bouts": [
+    {
+     "a": "後藤丈治",
+     "aEn": "Joji Goto",
+     "b": "セルジオ・ペティス",
+     "bEn": "Sergio Pettis",
+     "fighterId": "goto-joji",
+     "jp": true,
+     "note": "バンタム級・メインカード"
+    }
+   ],
+   "category": "abroad",
+   "dateJst": "2026-11-14",
+   "extra": "結果：後藤丈治が元ベラトール王者セルジオ・ペティスに判定3-0で勝利。メインはセルゲイ・ビロステンニーがワジム・ネムコフに判定勝ちし、新ヘビー級王者に。",
+   "kind": "PFL",
+   "order": 20261114.2245,
+   "status": "confirmed",
+   "timeJst": "22:45",
+   "timeNote": "11/14(土) 22:45〜U-NEXTで配信（メインカードは11/15(日) 2:00〜）",
+   "title": "PFL ドバイ",
+   "venue": "コカ・コーラ・アリーナ（UAE・ドバイ）",
+   "watch": "U-NEXT"
+  },
+  {
    "id": "2026-11-18-one-samurai-5",
    "bouts": [
     {
@@ -923,9 +948,41 @@
    "order": 12,
    "origin": "rizin",
    "promo": "UFC"
+  },
+  {
+   "id": "goto-joji",
+   "division": "バンタム級",
+   "en": "Joji Goto",
+   "group": "pfl",
+   "name": "後藤丈治",
+   "note": "RIZINから参戦した11月14日（現地）のPFLドバイ大会で、元ベラトール王者セルジオ・ペティスに判定3-0で勝利。次戦は未定。",
+   "order": 13,
+   "promo": "RIZIN・PFL"
+  },
+  {
+   "id": "musayev",
+   "division": "ライト級",
+   "en": "Tofiq Musayev",
+   "group": "alum",
+   "name": "トフィック・ムサエフ",
+   "note": "2019年のRIZINライト級GPで優勝。UFCでは2026年に2連勝（3月にイグナシオ・バハモンデスに判定勝ち、8月にルドヴィト・クラインに2R TKO勝ち）。次戦は未定。",
+   "order": 14,
+   "origin": "rizin",
+   "promo": "UFC"
   }
  ],
  "results": [
+  {
+   "id": "2026-11-14-goto-joji",
+   "date": "2026-11-14",
+   "dateNote": "日付は現地",
+   "event": "PFL ドバイ",
+   "fighter": "後藤丈治",
+   "method": "判定 3-0",
+   "opponent": "セルジオ・ペティス",
+   "order": 20261114,
+   "outcome": "W"
+  },
   {
    "id": "2026-11-07-nakamura-keiichiro",
    "date": "2026-11-07",
@@ -1002,6 +1059,22 @@
  "videos": [],
  "meta": {
   "sources": [
+   {
+    "label": "後藤丈治がペティスに判定勝ち（ゴング格闘技）",
+    "url": "https://gonkaku.jp/articles/25432"
+   },
+   {
+    "label": "後藤丈治 vs ペティス・U-NEXTの配信時間（MMAPLANET）",
+    "url": "https://mmaplanet.jp/243822"
+   },
+   {
+    "label": "PFLとMVPの統合、2027年からMVP MMAに（ESPN）",
+    "url": "https://www.espn.com/mma/story/_/id/49497896/pfl-mvp-mma-merger-jake-paul-nakisa-bidarian"
+   },
+   {
+    "label": "トフィック・ムサエフの戦績（Ultimate Fighting Calendar）",
+    "url": "https://www.ufcalendar.com/fighters/tofiq-musayev"
+   },
    {
     "label": "RIZIN NYE in Nagoya（RIZIN.TV）",
     "url": "https://watch.rizin.tv/products/rizin-nye-in-nagoya"
