@@ -281,6 +281,7 @@
     {
      "a": "山北渓人",
      "b": "ジョシュア・パシオ",
+     "fighterId": "yamakita",
      "jp": true,
      "note": "ONEストロー級MMA世界タイトルマッチ（パシオが王者）",
      "title": true
@@ -288,8 +289,9 @@
     {
      "a": "和田竜光",
      "b": "ジャレッド・ブルックス",
+     "fighterId": "wada",
      "jp": true,
-     "note": "MMA"
+     "note": "ストロー級MMA"
     },
     {
      "a": "那須川龍心",
@@ -301,7 +303,7 @@
    ],
    "category": "notable",
    "dateJst": "2026-11-18",
-   "extra": "全10試合。那須川龍心の相手はエルメディ・エル・ジャマリから永井雷智に変わった（ONE公式の大会ページ）。ほかに玖村将史 vs エリス・バルボーサ、竹内龍吾 vs ハシモト・ブランドン、礼司 vs ルイ・ボテーリョ、GUMP vs 乾秀人、木下尚祐 vs シヴァエフ、加藤有吾 vs 石井寿来、麻火佑太郎 vs ペッタノン。",
+   "extra": "結果：パシオが山北に4R一本勝ち（腕三角絞め）で防衛。和田はブルックスに判定1-2で敗れ、那須川龍心は永井雷智に1R KO勝ち。",
    "kind": "ONE",
    "order": 20261118.173,
    "status": "confirmed",
@@ -483,6 +485,7 @@
     {
      "a": "澤田千優",
      "b": "アナスタシア・ニコラカコス",
+     "fighterId": "sawada",
      "jp": true,
      "note": "ONEアトム級MMA世界タイトルマッチ",
      "title": true
@@ -496,13 +499,22 @@
     {
      "a": "箕輪ひろば",
      "b": "ファビオ・ヘンリケ",
+     "fighterId": "minowa",
      "jp": true,
      "note": "ストロー級MMA"
+    },
+    {
+     "a": "折居大河",
+     "b": "平山諒",
+     "bJp": true,
+     "fighterId": "orii",
+     "jp": true,
+     "note": "MMA"
     }
    ],
    "category": "notable",
    "dateJst": "2026-12-02",
-   "extra": "発表済みは7試合。ほかにMISAKI vs ドゥアンダーオノイ、奥脇竜哉 vs トンプーン・PK・センチャイ、折居大河 vs 平山諒、白鳥大珠 vs 手塚翔太。野杁正明 vs マラット・グレゴリアンのトーナメント決勝は、野杁の負傷で日程未定。",
+   "extra": "発表済みは7試合。ほかにMISAKI vs ドゥアンダーオノイ、奥脇竜哉 vs トンプーン・PK・センチャイ、白鳥大珠 vs 手塚翔太。野杁正明 vs マラット・グレゴリアンのトーナメント決勝は、野杁の負傷で日程未定。",
    "kind": "ONE",
    "order": 20261202,
    "status": "confirmed",
@@ -969,9 +981,149 @@
    "order": 14,
    "origin": "rizin",
    "promo": "UFC"
+  },
+  {
+   "id": "kazama",
+   "name": "風間敏臣",
+   "en": "Toshiomi Kazama",
+   "promo": "UFC",
+   "division": "バンタム級",
+   "group": "ufc",
+   "note": "2024年8月にハラランボス・グリゴリウに一本勝ち。2025年8月のラスベガス大会ではイライジャ・スミスに1R KO負けした。次戦は未定。",
+   "order": 15
+  },
+  {
+   "id": "inoue-naoki",
+   "name": "井上直樹",
+   "en": "Naoki Inoue",
+   "promo": "RIZIN・PFL",
+   "division": "バンタム級",
+   "group": "pfl",
+   "note": "元RIZINバンタム級王者。RIZINから参戦した5月のPFLブリュッセル大会で、2025年のPFL世界トーナメント王者マルシルリー・アウベスに判定2-1で勝った。次戦は未定。",
+   "order": 16
+  },
+  {
+   "id": "watanabe-kana",
+   "name": "渡辺華奈",
+   "en": "Kana Watanabe",
+   "promo": "PFL",
+   "division": "女子フライ級",
+   "group": "pfl",
+   "note": "PFLでは5勝5敗。4月のシカゴ大会でパウリナ・ヴィシニェフスカに2R TKO負け。次戦は未定。",
+   "order": 17
+  },
+  {
+   "id": "sasuke",
+   "name": "SASUKE",
+   "en": "Keisuke Sasu",
+   "promo": "PFL",
+   "division": "フェザー級",
+   "group": "pfl",
+   "note": "第11代修斗世界フェザー級王者。PFLと複数年の独占契約を結び、5月のブリュッセル大会でデビューしたが、アサエル・アジュージに2R KO負け。次戦は未定。",
+   "order": 18
+  },
+  {
+   "id": "wakamatsu",
+   "name": "若松佑弥",
+   "en": "Yuya Wakamatsu",
+   "promo": "ONE",
+   "division": "フライ級",
+   "group": "notable",
+   "note": "2025年にONEフライ級MMA王者になったが、2026年4月のONE SAMURAI 1でアバズベク・ホルミルザエフに2R KO負けし王座を失った。9月のONE SAMURAI 3でウィリー・ファン・ローエンにTKO勝ち。次戦は未定。",
+   "order": 19
+  },
+  {
+   "id": "sawada",
+   "name": "澤田千優",
+   "en": "Chihiro Sawada",
+   "promo": "ONE",
+   "division": "女子アトム級",
+   "group": "notable",
+   "note": "元修斗アトム級王者。2026年は1月にナタリー・サルセドに判定勝ち、4月のONE SAMURAI 1で三浦彩佳に1R一本勝ち。12月2日のONE SAMURAI 6でONEアトム級MMA世界タイトルを争う。",
+   "order": 20
+  },
+  {
+   "id": "yamakita",
+   "name": "山北渓人",
+   "en": "Keito Yamakita",
+   "promo": "ONE",
+   "division": "ストロー級",
+   "group": "notable",
+   "note": "5連勝でONEストロー級MMA王座に挑戦したが、11月18日のONE SAMURAI 5で王者ジョシュア・パシオに4R一本負け。次戦は未定。",
+   "order": 21
+  },
+  {
+   "id": "minowa",
+   "name": "箕輪ひろば",
+   "en": "Hiroba Minowa",
+   "promo": "ONE",
+   "division": "ストロー級",
+   "group": "notable",
+   "note": "元修斗ストロー級王者。9月のONE SAMURAI 3で宮澤雄大に判定勝ち。12月2日のONE SAMURAI 6でファビオ・ヘンリケと対戦する。",
+   "order": 22
+  },
+  {
+   "id": "wada",
+   "name": "和田竜光",
+   "en": "Tatsumitsu Wada",
+   "promo": "ONE",
+   "division": "ストロー級",
+   "group": "notable",
+   "note": "元DEEPフライ級王者。4月のONE SAMURAI 1で伊藤盛一郎に判定2-1で勝ったが、11月18日のONE SAMURAI 5では元王者ジャレッド・ブルックスに判定1-2で敗れた。次戦は未定。",
+   "order": 23
+  },
+  {
+   "id": "hirata",
+   "name": "平田樹",
+   "en": "Itsuki Hirata",
+   "promo": "ONE",
+   "division": "女子アトム級",
+   "group": "notable",
+   "note": "10月のONE SAMURAI 4でジヒン・ラズワンに判定3-0で勝った。次戦は未定。",
+   "order": 24
+  },
+  {
+   "id": "miura",
+   "name": "三浦彩佳",
+   "en": "Ayaka Miura",
+   "promo": "ONE",
+   "division": "女子アトム級",
+   "group": "notable",
+   "note": "元ONE女子ストロー級MMA世界王座挑戦者。2026年は4月のONE SAMURAI 1で澤田千優に1R一本負け、7月にヴィクトリア・ソウザに判定負け。次戦は未定。",
+   "order": 25
+  },
+  {
+   "id": "orii",
+   "name": "折居大河",
+   "en": "Taiga Orii",
+   "promo": "ONE",
+   "division": "バンタム級",
+   "group": "notable",
+   "note": "日本とガーナにルーツを持つ無敗のバンタム級。6月にジュリアン・マヨルガを1R TKOで下し、ONEとの契約を勝ち取った。12月2日のONE SAMURAI 6で平山諒と対戦する。",
+   "order": 26
   }
  ],
  "results": [
+  {
+   "id": "2026-11-18-yamakita",
+   "date": "2026-11-18",
+   "event": "ONE SAMURAI 5",
+   "fighter": "山北渓人",
+   "method": "一本 4R 4:17",
+   "opponent": "ジョシュア・パシオ",
+   "order": 20261118.2,
+   "outcome": "L"
+  },
+  {
+   "id": "2026-11-18-wada",
+   "date": "2026-11-18",
+   "event": "ONE SAMURAI 5",
+   "fighter": "和田竜光",
+   "method": "判定 1-2",
+   "opponent": "ジャレッド・ブルックス",
+   "order": 20261118.1,
+   "outcome": "L"
+  },
   {
    "id": "2026-11-14-goto-joji",
    "date": "2026-11-14",
@@ -993,6 +1145,16 @@
    "opponent": "オリー・シュミッド",
    "order": 20261107,
    "outcome": "L"
+  },
+  {
+   "id": "2026-10-17-hirata",
+   "date": "2026-10-17",
+   "event": "ONE SAMURAI 4",
+   "fighter": "平田樹",
+   "method": "判定 3-0",
+   "opponent": "ジヒン・ラズワン",
+   "order": 20261017,
+   "outcome": "W"
   },
   {
    "id": "2026-09-27-nasukawa",
@@ -1086,14 +1248,6 @@
    {
     "label": "UFC 大会一覧（UFC.com）",
     "url": "https://www.ufc.com/events"
-   },
-   {
-    "label": "ROAD TO UFC シーズン5 準決勝の結果（UFC.com）",
-    "url": "https://www.ufc.com/news/road-to-ufc-season-5-semifinals-results"
-   },
-   {
-    "label": "中村倫也 vs ヒースタンド（Cageside Press）",
-    "url": "https://cagesidepress.com/2026/09/26/brady-hiestand-wins-tuf-vs-road-to-ufc-battle-subs-rinya-nakamura/"
    },
    {
     "label": "中村京一郎 選手ページ（UFC.com）",
@@ -1192,16 +1346,8 @@
     "url": "https://mmaplanet.jp/243479"
    },
    {
-    "label": "UFC Vegas 124 の結果（Sherdog）",
-    "url": "https://www.sherdog.com/news/news/UFC-Vegas-124-CortesAcosta-vs-Walker-playbyplay-results-round-scoring-203525"
-   },
-   {
     "label": "UFC 336（UFC.com）",
     "url": "https://www.ufc.com/event/ufc-336"
-   },
-   {
-    "label": "ONE SAMURAI 5（ONE公式）",
-    "url": "https://www.onefc.com/jp/events/one-samurai-5/"
    },
    {
     "label": "ONE SAMURAI 6 澤田の王座決定戦（ゴング格闘技）",
@@ -1218,8 +1364,24 @@
    {
     "label": "大会一覧（ゴング格闘技）",
     "url": "https://gonkaku.jp/events"
+   },
+   {
+    "label": "UFC 現役選手一覧（Wikipedia）",
+    "url": "https://en.wikipedia.org/wiki/List_of_current_UFC_fighters"
+   },
+   {
+    "label": "ONE 現役選手一覧（Wikipedia）",
+    "url": "https://en.wikipedia.org/wiki/List_of_current_ONE_fighters"
+   },
+   {
+    "label": "PFL 現役選手一覧（Wikipedia）",
+    "url": "https://en.wikipedia.org/wiki/List_of_current_PFL_fighters"
+   },
+   {
+    "label": "ONE SAMURAI 5 の結果（Cageside Press）",
+    "url": "https://cagesidepress.com/2026/11/17/one-samurai-5-results/"
    }
   ],
-  "updated": "2026-11-16"
+  "updated": "2026-11-21"
  }
 }
